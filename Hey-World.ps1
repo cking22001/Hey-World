@@ -1,2 +1,2 @@
-# some text to test my local git install
+# some text
 write-host "Hey World! How are you?"
